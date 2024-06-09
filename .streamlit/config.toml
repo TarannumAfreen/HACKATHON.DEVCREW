@@ -1,8 +1,10 @@
 [server]
 enableXsrfProtection = false
 enableCORS = false
+
 [theme]
-base="light"
-primaryColor="#a21c2f"
-secondaryBackgroundColor="#ffdbdd"
-textColor="#a11c2f"
+base = "dark"
+primaryColor = "#FF1010"  # Red
+secondaryBackgroundColor = "#CE7B91"  # Ash
+textColor = "#FF0000"  # Red for text
+
