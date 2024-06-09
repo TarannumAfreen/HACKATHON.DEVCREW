@@ -1,0 +1,8 @@
+[server]
+enableXsrfProtection = false
+enableCORS = false
+[theme]
+base="light"
+primaryColor="#a21c2f"
+secondaryBackgroundColor="#ffdbdd"
+textColor="#a11c2f"
